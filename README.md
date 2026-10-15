@@ -46,3 +46,13 @@ Principles are public goods — any model already knows them. What travels with 
 ## License
 
 CC BY-NC-SA 4.0 — share and adapt freely for non-commercial use, with attribution. See [LICENSE](LICENSE).
+
+## Referencing the images
+
+Every card's official image lives at a stable URL — reference it directly, no regeneration needed:
+
+```
+https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/{zh|en}/png/xingnao-{NUMBER}.png
+```
+
+Example: `.../main/zh/png/xingnao-M01-01.png`. Each entry in `cards.json` also carries its own `image_url`.

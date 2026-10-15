@@ -5,7 +5,8 @@
   "name": "锚定效应",
   "brief": "先出价的人定了调子（买车砍价、薪资谈判）",
   "source": "Tversky & Kahneman 1974",
-  "fail": "对手是专业买家、手里有明确备选报价时，锚定效应大幅减弱，先出价定调子的作用接近消失。"
+  "fail": "对手是专业买家、手里有明确备选报价时，锚定效应大幅减弱，先出价定调子的作用接近消失。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M01-01.png"
  },
  {
   "id": "M01-02",
@@ -13,7 +14,8 @@
   "name": "极端锚定的边界",
   "brief": "什么时候敢报高价，什么时候会谈崩",
   "source": "Galinsky & Mussweiler 2001",
-  "fail": "对方替代选择极多、谈崩成本很低时，极端报价直接谈崩，连还价机会都没有。"
+  "fail": "对方替代选择极多、谈崩成本很低时，极端报价直接谈崩，连还价机会都没有。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M01-02.png"
  },
  {
   "id": "M01-03",
@@ -21,7 +23,8 @@
   "name": "精确报价增强锚定",
   "brief": "越精确的报价越难砍（€14,875 比 €15,000 更牢）",
   "source": "Loschelder et al. 2014",
-  "fail": "对方识破\"精确=有依据\"的把戏、转而要求逐项拆解报价依据时，精确锚定失效。"
+  "fail": "对方识破\"精确=有依据\"的把戏、转而要求逐项拆解报价依据时，精确锚定失效。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M01-03.png"
  },
  {
   "id": "M01-04",
@@ -29,7 +32,8 @@
   "name": "互惠规范",
   "brief": "每次让步都要换回东西",
   "source": "Gouldner 1960",
-  "fail": "对方判定你的让步是算计好的套路而非诚意时，让步换不回任何东西，还会被视为软弱。"
+  "fail": "对方判定你的让步是算计好的套路而非诚意时，让步换不回任何东西，还会被视为软弱。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M01-04.png"
  },
  {
   "id": "M01-05",
@@ -37,7 +41,8 @@
   "name": "谁更急谁输",
   "brief": "时间成本不对称的一方先让步",
   "source": "Rubinstein 1982",
-  "fail": "对方根本不在乎这单成不成（时间成本也低）时，比耐心耗不过，只能换筹码。"
+  "fail": "对方根本不在乎这单成不成（时间成本也低）时，比耐心耗不过，只能换筹码。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M01-05.png"
  },
  {
   "id": "M01-06",
@@ -45,7 +50,8 @@
   "name": "重复博弈",
   "brief": "为什么跟熟人、长期供应商不能玩狠的",
   "source": "Axelrod 1984",
-  "fail": "对方是只做一单就消失的陌生人时，合作策略等于白送，强硬的一次性博弈更优。"
+  "fail": "对方是只做一单就消失的陌生人时，合作策略等于白送，强硬的一次性博弈更优。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M01-06.png"
  },
  {
   "id": "M02-01",
@@ -53,7 +59,8 @@
   "name": "损失厌恶",
   "brief": "人更怕失去，而不是想得到（保险、促销话术拆解）",
   "source": "Kahneman & Tversky 1979",
-  "fail": "损失小到无感（几块钱）或对方已对损失彻底麻木时，损失框架激不起任何反应。"
+  "fail": "损失小到无感（几块钱）或对方已对损失彻底麻木时，损失框架激不起任何反应。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-01.png"
  },
  {
   "id": "M02-02",
@@ -61,7 +68,8 @@
   "name": "参考点",
   "brief": "同一件事，换个说法效果完全不同（含：快速识别对方的参考点）",
   "source": "Kahneman & Tversky 1979",
-  "fail": "对方一眼看穿你在玩框架把戏并产生逆反时，换说法只会让他更不信任你。"
+  "fail": "对方一眼看穿你在玩框架把戏并产生逆反时，换说法只会让他更不信任你。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-02.png"
  },
  {
   "id": "M02-03",
@@ -69,7 +77,8 @@
   "name": "绝境赌徒",
   "brief": "亏惨的人反而敢下重注（反射效应；为什么用损失框架劝他没用）",
   "source": "Kahneman & Tversky 1979",
-  "fail": "对方还抱有一丝\"能翻盘\"的具体路径希望时，损失框架仍会把他推向更大冒险——先确认他是否已无路可退。"
+  "fail": "对方还抱有一丝\"能翻盘\"的具体路径希望时，损失框架仍会把他推向更大冒险——先确认他是否已无路可退。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-03.png"
  },
  {
   "id": "M02-04",
@@ -77,7 +86,8 @@
   "name": "收益框架何时更有效",
   "brief": "给绝境中的人讲\"能挽回什么\"",
   "source": "Tversky & Kahneman 1981",
-  "fail": "对方正处顺境、厌恶风险时，收益框架反而让他更保守，该用损失框架推他行动。"
+  "fail": "对方正处顺境、厌恶风险时，收益框架反而让他更保守，该用损失框架推他行动。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-04.png"
  },
  {
   "id": "M02-05",
@@ -85,7 +95,8 @@
   "name": "对自己用",
   "brief": "把目标写成\"不做会失去什么\"",
   "source": "Kahneman & Tversky 1979（应用）",
-  "fail": "目标大到\"失去\"不可想象（比如健康）时，损失写法只会制造焦虑不产生行动，拆小才有用。"
+  "fail": "目标大到\"失去\"不可想象（比如健康）时，损失写法只会制造焦虑不产生行动，拆小才有用。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-05.png"
  },
  {
   "id": "M03-01",
@@ -93,7 +104,8 @@
   "name": "零基提问",
   "brief": "\"如果今天刚接手这个项目，还投吗\"",
   "source": "Arkes & Blumer 1985（应用）",
-  "fail": "项目已产生不可逆的声誉绑定（比如公开承诺）时，\"刚接手还会投吗\"的答案失真——退出成本不在账上，在脸上。"
+  "fail": "项目已产生不可逆的声誉绑定（比如公开承诺）时，\"刚接手还会投吗\"的答案失真——退出成本不在账上，在脸上。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-01.png"
  },
  {
   "id": "M03-02",
@@ -101,7 +113,8 @@
   "name": "期权价值",
   "brief": "什么时候该养着不砍（止损 vs 保留火种）",
   "source": "Myers 1977；Dixit & Pindyck 1994",
-  "fail": "养着的成本超过期权本身价值的上限时，\"保留火种\"就是拖延，砍掉更划算。"
+  "fail": "养着的成本超过期权本身价值的上限时，\"保留火种\"就是拖延，砍掉更划算。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-02.png"
  },
  {
   "id": "M03-03",
@@ -109,7 +122,8 @@
   "name": "预先承诺",
   "brief": "动手之前先写好规则",
   "source": "Thaler & Shefrin 1981",
-  "fail": "环境规则发生根本变化（当初写规则的前提不存在了）时，死守旧规则等于用昨天的地图走今天的路。"
+  "fail": "环境规则发生根本变化（当初写规则的前提不存在了）时，死守旧规则等于用昨天的地图走今天的路。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-03.png"
  },
  {
   "id": "M03-04",
@@ -117,7 +131,8 @@
   "name": "沉没成本",
   "brief": "套牢的持仓，问的不是\"回本吗\"而是\"今天还会买吗\"",
   "source": "Arkes & Blumer 1985（应用）",
-  "fail": "持仓里有你无法复制的信息优势或税务/结构性原因时，\"今天还会买吗\"的答案不能直接指导卖出。"
+  "fail": "持仓里有你无法复制的信息优势或税务/结构性原因时，\"今天还会买吗\"的答案不能直接指导卖出。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-04.png"
  },
  {
   "id": "M03-05",
@@ -125,7 +140,8 @@
   "name": "职业与感情里的沉没成本",
   "brief": "五年经验 vs 五年枷锁",
   "source": "Arkes & Blumer 1985（应用）",
-  "fail": "五年积累已内化成可迁移能力（方法论、人脉）时，它不是枷锁，是学费已付清的资产。"
+  "fail": "五年积累已内化成可迁移能力（方法论、人脉）时，它不是枷锁，是学费已付清的资产。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-05.png"
  },
  {
   "id": "M03-06",
@@ -133,7 +149,8 @@
   "name": "升级承诺",
   "brief": "越投越不敢停",
   "source": "Staw 1976",
-  "fail": "追加投入能实质改变胜率（比如关键技术突破在即）而非\"再赌一把\"时，升级承诺不适用——继续投是算过账的。"
+  "fail": "追加投入能实质改变胜率（比如关键技术突破在即）而非\"再赌一把\"时，升级承诺不适用——继续投是算过账的。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-06.png"
  },
  {
   "id": "M04-01",
@@ -141,7 +158,8 @@
   "name": "2 分钟微启动",
   "brief": "只写标题，持续 120 秒（厌恶型任务：报销、整理数据、写例行报告，先启动再说）",
   "source": "Fogg 2009",
-  "fail": "任务方向本身是错的（战略混乱）时，先启动只会让你高效地走向错误，先停下来做结构化拆解。"
+  "fail": "任务方向本身是错的（战略混乱）时，先启动只会让你高效地走向错误，先停下来做结构化拆解。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M04-01.png"
  },
  {
   "id": "M04-02",
@@ -149,7 +167,8 @@
   "name": "习惯叠加",
   "brief": "把新动作焊在旧习惯上",
   "source": "Gollwitzer 1999（应用）",
-  "fail": "旧习惯本身不稳定（出差、作息打乱）时，焊上去的新动作跟着一起断，得先固定锚点。"
+  "fail": "旧习惯本身不稳定（出差、作息打乱）时，焊上去的新动作跟着一起断，得先固定锚点。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M04-02.png"
  },
  {
   "id": "M04-03",
@@ -157,7 +176,8 @@
   "name": "环境设计",
   "brief": "让开始变容易，让分心变难",
   "source": "Thaler & Sunstein 2008",
-  "fail": "分心的根源是任务本身无意义而非环境诱惑时，换环境没用，得先回答\"这事值不值得做\"。"
+  "fail": "分心的根源是任务本身无意义而非环境诱惑时，换环境没用，得先回答\"这事值不值得做\"。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M04-03.png"
  },
  {
   "id": "M05-01",
@@ -165,7 +185,8 @@
   "name": "睡前越想越清醒",
   "brief": "默认网络（DMN）在空转",
   "source": "Raichle et al. 2001",
-  "fail": "焦虑背后藏着一个没厘清的关键风险点时，物理打断等于逃避，先把风险点写下来。"
+  "fail": "焦虑背后藏着一个没厘清的关键风险点时，物理打断等于逃避，先把风险点写下来。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M05-01.png"
  },
  {
   "id": "M05-02",
@@ -173,7 +194,8 @@
   "name": "注意力恢复",
   "brief": "换个环境回血（散步、亲近自然最有效）",
   "source": "Kaplan 1995",
-  "fail": "疲劳来自连续决策耗尽而非环境单调时，散步回血有限，得先减少决策量。"
+  "fail": "疲劳来自连续决策耗尽而非环境单调时，散步回血有限，得先减少决策量。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M05-02.png"
  },
  {
   "id": "M05-03",
@@ -181,7 +203,8 @@
   "name": "反刍 vs 复盘",
   "brief": "一个是车轱辘转，一个是往前走",
   "source": "Nolen-Hoeksema 2000",
-  "fail": "事情还没结束、信息不全时，强行\"复盘\"会变成用不全的信息给自己定罪，先收集信息。"
+  "fail": "事情还没结束、信息不全时，强行\"复盘\"会变成用不全的信息给自己定罪，先收集信息。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M05-03.png"
  },
  {
   "id": "M05-04",
@@ -189,7 +212,8 @@
   "name": "运动作为打断器",
   "brief": "为什么跑完步脑子清爽",
   "source": "Blumenthal et al. 1999",
-  "fail": "身体已过度疲劳或有伤时，运动加重耗竭，换成睡眠或静坐更有效。"
+  "fail": "身体已过度疲劳或有伤时，运动加重耗竭，换成睡眠或静坐更有效。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M05-04.png"
  },
  {
   "id": "M06-01",
@@ -197,7 +221,8 @@
   "name": "共识已被定价",
   "brief": "人人都知道的\"机会\"轮到你时已没利润（满大街加盟连锁的黄金期总是过去的）",
   "source": "Fama 1970",
-  "fail": "市场还没发现、信息尚未扩散的早期阶段，共识尚未形成，\"已被定价\"的前提不成立。"
+  "fail": "市场还没发现、信息尚未扩散的早期阶段，共识尚未形成，\"已被定价\"的前提不成立。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-01.png"
  },
  {
   "id": "M06-02",
@@ -205,7 +230,8 @@
   "name": "平庸的正确",
   "brief": "AI 的\"平衡观点\"为什么指导不了行动（基于 RLHF 机制的推论观察）",
   "source": "Christiano et al. 2017；Ouyang et al. 2022（推论）",
-  "fail": "任务只需要平均水平（信息整理、流程操作）时，平衡观点恰恰是最高效的选择，别浪费算力找反共识。"
+  "fail": "任务只需要平均水平（信息整理、流程操作）时，平衡观点恰恰是最高效的选择，别浪费算力找反共识。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-02.png"
  },
  {
   "id": "M06-03",
@@ -213,7 +239,8 @@
   "name": "军备竞赛均衡",
   "brief": "所有人用同一工具时，优势归零（人人用 AI 写简历，HR 一眼看穿）",
   "source": "Nash 1950/1951",
-  "fail": "工具的使用方式存在 know-how 壁垒（提示工程、领域经验）时，人人有工具不等于人人用得一样好，优势未归零。"
+  "fail": "工具的使用方式存在 know-how 壁垒（提示工程、领域经验）时，人人有工具不等于人人用得一样好，优势未归零。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-03.png"
  },
  {
   "id": "M06-04",
@@ -221,7 +248,8 @@
   "name": "选美比赛",
   "brief": "大家猜的不是真相，是别人的想法",
   "source": "Keynes 1936",
-  "fail": "参与者都是只看基本面的长期投资者时，猜别人想法的层级博弈不适用，看价值本身。"
+  "fail": "参与者都是只看基本面的长期投资者时，猜别人想法的层级博弈不适用，看价值本身。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-04.png"
  },
  {
   "id": "M06-05",
@@ -229,7 +257,8 @@
   "name": "信息级联",
   "brief": "理性个体放弃私人信息跟随前人（排队最长的店不一定最好吃）",
   "source": "Bikhchandani, Hirshleifer & Welch 1992",
-  "fail": "前人的行动附带了可验证的硬信息（比如公开财报数据）而非纯跟随时，跟随是理性的信息利用，不是盲从。"
+  "fail": "前人的行动附带了可验证的硬信息（比如公开财报数据）而非纯跟随时，跟随是理性的信息利用，不是盲从。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-05.png"
  },
  {
   "id": "M06-06",
@@ -237,7 +266,8 @@
   "name": "杀死自己的共识",
   "brief": "证伪主义——每周亲手证伪一个深信不疑的判断",
   "source": "Popper 1934/1959",
-  "fail": "判断本身不可证伪（比如\"明天会涨会跌会横盘\"三面都占）时，硬证伪只会浪费一周，先检查命题写得是否合格。"
+  "fail": "判断本身不可证伪（比如\"明天会涨会跌会横盘\"三面都占）时，硬证伪只会浪费一周，先检查命题写得是否合格。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-06.png"
  },
  {
   "id": "M07-01",
@@ -245,7 +275,8 @@
   "name": "工作记忆限制",
   "brief": "一次只能在脑子里转 4 件事（开会同时记 7 个待办必丢）",
   "source": "Miller 1956；Cowan 2001",
-  "fail": "信息已被组块化（老手把一串数字记成一个整体）时，4 组块上限不适用——上限管的是组块数，不是信息量。"
+  "fail": "信息已被组块化（老手把一串数字记成一个整体）时，4 组块上限不适用——上限管的是组块数，不是信息量。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M07-01.png"
  },
  {
   "id": "M07-02",
@@ -253,7 +284,8 @@
   "name": "注意残留",
   "brief": "上件事的念头跟着你进下一件事（开完吵架的会，方案评审总看不顺眼）",
   "source": "Leroy 2009",
-  "fail": "两件事之间有明确的\"收尾仪式\"（写下结论、合上本子）时，残留大幅减少——残留怕的是\"没完\"，不是\"切换\"。"
+  "fail": "两件事之间有明确的\"收尾仪式\"（写下结论、合上本子）时，残留大幅减少——残留怕的是\"没完\"，不是\"切换\"。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M07-02.png"
  },
  {
   "id": "M07-03",
@@ -261,7 +293,8 @@
   "name": "提取练习效应",
   "brief": "考试前合上书默写一遍，比再看三遍记得牢",
   "source": "Roediger & Karpicke 2006",
-  "fail": "知识本身还没进脑子（第一遍就没看懂）时，硬默写等于在空白上刻字——先理解，再提取。"
+  "fail": "知识本身还没进脑子（第一遍就没看懂）时，硬默写等于在空白上刻字——先理解，再提取。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M07-03.png"
  },
  {
   "id": "M07-04",
@@ -269,7 +302,8 @@
   "name": "峰终定律",
   "brief": "人记住一段经历，只看最高峰和结尾（结肠镜：疼得久但结尾温和的，反而说没那么疼）",
   "source": "Kahneman, Fredrickson, Schreiber & Redelmeier 1993",
-  "fail": "评价基于完整记录逐项核算（如对着完整账单打分）而非凭记忆回想时，峰终定律不适用——它只管\"记得的感觉\"，不管\"算出的总和\"。"
+  "fail": "评价基于完整记录逐项核算（如对着完整账单打分）而非凭记忆回想时，峰终定律不适用——它只管\"记得的感觉\"，不管\"算出的总和\"。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M07-04.png"
  },
  {
   "id": "M08-01",
@@ -277,7 +311,8 @@
   "name": "回归均值",
   "brief": "考第一的下次大概率下滑，不是骄傲了，是运气回落",
   "source": "Galton 1886",
-  "fail": "存在结构性断点（换了教练、换了规则、技术范式切换）时不适用——均值本身在漂移。"
+  "fail": "存在结构性断点（换了教练、换了规则、技术范式切换）时不适用——均值本身在漂移。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-01.png"
  },
  {
   "id": "M08-02",
@@ -285,7 +320,8 @@
   "name": "基率忽视",
   "brief": "听说\"测出阳性\"就慌，却没问这病在人群里多罕见",
   "source": "Kahneman & Tversky 1973",
-  "fail": "基率本身未知或正在剧变（新病毒流行初期）时，\"先看基率\"的建议用不上——先承认不知道。"
+  "fail": "基率本身未知或正在剧变（新病毒流行初期）时，\"先看基率\"的建议用不上——先承认不知道。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-02.png"
  },
  {
   "id": "M08-03",
@@ -293,7 +329,8 @@
   "name": "幸存者偏差",
   "brief": "只听成功学，因为失败者没机会出书",
   "source": "Wald 1943（二战飞机装甲，应用）",
-  "fail": "失败样本可得且已被纳入分析时，偏差已修正——\"警惕幸存者偏差\"不是万能挡箭牌。"
+  "fail": "失败样本可得且已被纳入分析时，偏差已修正——\"警惕幸存者偏差\"不是万能挡箭牌。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-03.png"
  },
  {
   "id": "M08-04",
@@ -301,7 +338,8 @@
   "name": "大数定律",
   "brief": "抛 10 次硬币 7 正 3 反很正常，抛 1 万次一定接近一半",
   "source": "Bernoulli 1713",
-  "fail": "每次试验不独立（传染、跟风、反馈循环）时，大数定律的前提塌了——先问独立吗，再谈收敛。"
+  "fail": "每次试验不独立（传染、跟风、反馈循环）时，大数定律的前提塌了——先问独立吗，再谈收敛。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-04.png"
  },
  {
   "id": "M10-01",
@@ -309,7 +347,8 @@
   "name": "迈克尔逊-莫雷实验",
   "brief": "一场\"失败\"的实验，杀死了以太说",
   "source": "Michelson & Morley 1887",
-  "fail": "\"测不到\"若是仪器精度不够所致，零结果不算证伪——先问精度，再宣布死亡。"
+  "fail": "\"测不到\"若是仪器精度不够所致，零结果不算证伪——先问精度，再宣布死亡。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M10-01.png"
  },
  {
   "id": "M10-02",
@@ -317,7 +356,8 @@
   "name": "燃素说之死",
   "brief": "拉瓦锡用天平称出了\"燃素\"不存在",
   "source": "Lavoisier 1770s",
-  "fail": "新理论的预言还没变成可测量的数字时，别急着宣布旧理论死亡——先做出天平。"
+  "fail": "新理论的预言还没变成可测量的数字时，别急着宣布旧理论死亡——先做出天平。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M10-02.png"
  },
  {
   "id": "M10-03",
@@ -325,7 +365,8 @@
   "name": "胃溃疡细菌说",
   "brief": "两个医生喝下细菌，证明溃疡不是\"压力大\"",
   "source": "Marshall & Warren 1984",
-  "fail": "自我实验无法排除安慰剂和个体差异时，结论只是\"值得大规模验证\"，不是\"已证明\"——喝细菌是起点，不是终点。"
+  "fail": "自我实验无法排除安慰剂和个体差异时，结论只是\"值得大规模验证\"，不是\"已证明\"——喝细菌是起点，不是终点。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M10-03.png"
  },
  {
   "id": "M11-01",
@@ -333,7 +374,8 @@
   "name": "控制二分",
   "brief": "烦恼的事，先分两类——我能动的，我动不了的",
   "source": "Epictetus《手册》约108",
-  "fail": "当\"只控可控\"被用作逃避必要行动的借口（\"行情不可控，所以我不复盘\"）时失效——可控的第一项就是\"复盘\"这个动作本身。"
+  "fail": "当\"只控可控\"被用作逃避必要行动的借口（\"行情不可控，所以我不复盘\"）时失效——可控的第一项就是\"复盘\"这个动作本身。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-01.png"
  },
  {
   "id": "M11-02",
@@ -341,7 +383,8 @@
   "name": "预演不幸",
   "brief": "每天花一分钟想\"最坏能坏到哪\"，真来了不慌",
   "source": "Seneca《致卢西利乌斯书信》约65",
-  "fail": "预演变成反复咀嚼最坏情形、制造持续焦虑时失效——预演一次写预案，写完就停，不许循环播放。"
+  "fail": "预演变成反复咀嚼最坏情形、制造持续焦虑时失效——预演一次写预案，写完就停，不许循环播放。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-02.png"
  },
  {
   "id": "M11-03",
@@ -349,7 +392,8 @@
   "name": "爱命运（只用在已发生的事）",
   "brief": "已经亏掉的钱，认它是学费，不认它是命",
   "source": "Marcus Aurelius《沉思录》约180（\"amor fati\"一词 Nietzsche 1882）",
-  "fail": "用在\"还没发生、还能改\"的事上时失效——对未来认命叫躺平，amor fati 只管过去。"
+  "fail": "用在\"还没发生、还能改\"的事上时失效——对未来认命叫躺平，amor fati 只管过去。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-03.png"
  },
  {
   "id": "M11-04",
@@ -357,7 +401,8 @@
   "name": "先胜而后求战",
   "brief": "开打之前，先算好输到哪里认",
   "source": "《孙子兵法·形篇》约公元前5世纪",
-  "fail": "把\"等胜算\"变成永远不开仓时失效——等待本身成了不作为的借口，先胜是准备，不是拖延。"
+  "fail": "把\"等胜算\"变成永远不开仓时失效——等待本身成了不作为的借口，先胜是准备，不是拖延。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-04.png"
  },
  {
   "id": "M11-05",
@@ -365,7 +410,8 @@
   "name": "兵贵胜，不贵久",
   "brief": "打不赢的仗，拖着就是输上加输",
   "source": "《孙子兵法·作战篇》约公元前5世纪",
-  "fail": "拖延本身在积累有利条件（等财报、等技术确认）且成本可控时，\"速战\"反而是错的——先算拖的成本，再喊止损。"
+  "fail": "拖延本身在积累有利条件（等财报、等技术确认）且成本可控时，\"速战\"反而是错的——先算拖的成本，再喊止损。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-05.png"
  },
  {
   "id": "M11-06",
@@ -373,7 +419,8 @@
   "name": "知止",
   "brief": "进之前先想好，赚到哪走、亏到哪走",
   "source": "《道德经》第44章，约公元前4世纪",
-  "fail": "环境结构性变化使原退出条件失去意义、且有书面修订记录时，可修订——修订本身也要写新的认错线，不许口头改。"
+  "fail": "环境结构性变化使原退出条件失去意义、且有书面修订记录时，可修订——修订本身也要写新的认错线，不许口头改。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-06.png"
  },
  {
   "id": "M11-07",
@@ -381,6 +428,7 @@
   "name": "无为",
   "brief": "不预测，只应对",
   "source": "《道德经》第37/57章，约公元前4世纪",
-  "fail": "变量其实可控可预测（自己的仓位、自己的纪律）时，\"无为\"成了懒惰的借口——无为只对不可控的用。"
+  "fail": "变量其实可控可预测（自己的仓位、自己的纪律）时，\"无为\"成了懒惰的借口——无为只对不可控的用。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M11-07.png"
  }
 ]

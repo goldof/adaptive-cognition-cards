@@ -46,3 +46,13 @@ adaptive-cognition-cards/
 ## 许可证
 
 CC BY-NC-SA 4.0 —— 非商业用途可自由分享、改编，需署名。见 [LICENSE](LICENSE)。
+
+## 引用图片
+
+每张卡的官方图片地址固定，可直接引用，无需重新生成：
+
+```
+https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/{zh|en}/png/xingnao-{编号}.png
+```
+
+例：`.../main/zh/png/xingnao-M01-01.png`。`cards.json` 里每条也自带 `image_url` 字段。
