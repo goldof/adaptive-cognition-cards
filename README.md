@@ -6,6 +6,10 @@ Feed any card — image or text — to any LLM and it can explain it. No skill i
 
 - 中文版说明 → [README.zh-CN.md](README.zh-CN.md)
 
+## Project background
+
+The Adaptive Cognition Engine （醒脑） is a decision-making skill built on behavioral economics, evolutionary psychology, and game theory. It was developed through a daily practice: one plain-language thinking lesson each morning, drawn from six modules and 48 mechanisms. These cards are the distilled, citable form of that mechanism library — designed so that **a single card seen once gives any AI the full project context**: what the engine is, how the 48 mechanisms are numbered, and the rule that numbers are never reused or reordered. Every card image carries this repo's URL at the bottom for exactly that reason.
+
 ## Layout
 
 ```
