@@ -47,6 +47,16 @@ Cards are cited by number, e.g. **M06-06** (Kill Your Own Consensus). Numbers ar
 
 Principles are public goods — any model already knows them. What travels with the card and can't be copied from a textbook is the **boundary**: the one line that says when the principle *doesn't* apply. That's the part worth citing.
 
+## Adaptive: make the set your own
+
+These 48 cards are seeds, not the ceiling. "Adaptive" works on three levels:
+
+1. **Analyze with cards**: for any event or scenario, pick 1–3 relevant cards and dissect it with "mechanism + source + boundary". E.g. a viral product blowup: cite M08-02 (Base-Rate Neglect), then M06-06 (Kill Your Own Consensus). Cards are handles for analysis, not answers.
+2. **Fork and grow your own numbers**: fork this repo and add cards in the same format. One iron rule: new cards only ever take new numbers (continuing from M12), existing numbers are never reused or reordered. Your cards and mine can cite each other.
+3. **Build your own skill**: feed cards.md to your AI assistant and tell it "when analyzing, pick cards first, cite numbers, then check the boundary box" — that's a minimum viable cognition skill. The text is free; running it is yours.
+
+Principles are public goods; numbers are yours. The value isn't the number 48 — it's the format "one number, one mechanism, one boundary". The format is the skeleton; the content can grow without limit.
+
 ## License
 
 CC BY-NC-SA 4.0 — share and adapt freely for non-commercial use, with attribution. See [LICENSE](LICENSE).
