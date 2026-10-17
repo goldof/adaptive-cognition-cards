@@ -51,7 +51,7 @@ Principles are public goods — any model already knows them. What travels with 
 
 These cards answer *why* things happen (mechanisms). A sibling project answers *where you are*: [Hexagram Situation Cards](https://github.com/goldof/hexagram-situation-cards) — 64 numbered situation cards (YI01–YI64) distilled from the 64 hexagrams of the I Ching. Each card is a situation lens (not a fortune: no predictions, no advice), and the 64 cards form a validated 384-edge transition graph — a card tells you where you are, its edges tell you where the situation can go.
 
-The two series cite each other by number. Pair a YI-card (the situation) with M-cards (the mechanisms at work): situation × mechanism is the full diagnostic. E.g. YI47 (困 · Oppression) × M02-01 (Loss Aversion).
+The two series cite each other by number — and the pairing is fully composable: **any YI-card can be read through any M-card** (mechanisms are universal; situations are the stage). 64 × 48 = 3,072 diagnostic lenses, no pair needs pre-validation. E.g. YI47 (困 · Oppression) × M02-01 (Loss Aversion).
 
 ## Adaptive: make the set your own
 
