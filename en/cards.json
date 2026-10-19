@@ -270,6 +270,15 @@
   "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M06-06.png"
  },
  {
+  "id": "M06-07",
+  "module": "The Anti-Consensus Engine",
+  "name": "Positional Competition",
+  "brief": "The neighbors' kid has it, so mine can't go without — you're not buying the thing, you're buying the ranking",
+  "source": "Frank 1999 (Luxury Fever)",
+  "fail": "When comparison carries real information (everyone buys because it's good), that's an information cascade. When the game itself is ranking (sports, exams), competition isn't the trap — the mistake is running a status race as if it were a value race.",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M06-07.png"
+ },
+ {
   "id": "M07-01",
   "module": "Cognitive Science",
   "name": "Working Memory Limits",

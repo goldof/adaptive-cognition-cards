@@ -270,6 +270,15 @@
   "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-06.png"
  },
  {
+  "id": "M06-07",
+  "module": "反共识引擎",
+  "name": "攀比",
+  "brief": "别人家孩子有，我家孩子不能没有——买的不是东西，是排名",
+  "source": "Frank 1999（《Luxury Fever》，位置性竞争）",
+  "fail": "比较带来真实信息时是信息级联；赛场规则就是排名时，攀比不是陷阱——错的是把位置赛当收获赛打。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-07.png"
+ },
+ {
   "id": "M07-01",
   "module": "认知科学",
   "name": "工作记忆限制",

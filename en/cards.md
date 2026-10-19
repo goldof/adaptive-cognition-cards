@@ -213,6 +213,13 @@ In one line: Falsificationism — hand-kill one deeply held judgment every week
 Source: Popper 1934/1959
 Boundary: When the judgment itself is unfalsifiable ("tomorrow it goes up, down, or sideways" covers everything), forced falsification wastes a week — first check the proposition is well-formed.
 
+## M06-07 Positional Competition
+![M06-07](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M06-07.png)
+Module: The Anti-Consensus Engine
+In one line: The neighbors' kid has it, so mine can't go without — you're not buying the thing, you're buying the ranking
+Source: Frank 1999 (Luxury Fever)
+Boundary: When comparison carries real information (everyone buys because it's good), that's an information cascade. When the game itself is ranking (sports, exams), competition isn't the trap — the mistake is running a status race as if it were a value race.
+
 ## M07-01 Working Memory Limits
 ![M07-01](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M07-01.png)
 Module: Cognitive Science

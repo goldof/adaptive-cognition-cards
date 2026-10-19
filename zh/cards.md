@@ -213,6 +213,13 @@
 出处：Popper 1934/1959
 不适用：判断本身不可证伪（比如"明天会涨会跌会横盘"三面都占）时，硬证伪只会浪费一周，先检查命题写得是否合格。
 
+## M06-07 攀比
+![M06-07](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M06-07.png)
+模块：反共识引擎
+一句话：别人家孩子有，我家孩子不能没有——买的不是东西，是排名
+出处：Frank 1999（《Luxury Fever》，位置性竞争）
+不适用：比较带来真实信息时是信息级联；赛场规则就是排名时，攀比不是陷阱——错的是把位置赛当收获赛打。
+
 ## M07-01 工作记忆限制
 ![M07-01](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M07-01.png)
 模块：认知科学
