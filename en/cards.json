@@ -342,6 +342,15 @@
   "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M08-04.png"
  },
  {
+  "id": "M08-05",
+  "module": "Statistical Thinking",
+  "name": "Vividness Effect",
+  "brief": "The mind is moved by a vivid single case and numb to abstract numbers",
+  "source": "Nisbett & Ross 1980 (Human Inference)",
+  "fail": "When the case agrees with the base rate, trusting it is fine — the error is trusting only it. Flip it around: turn dry statistics into a vivid story, and vividness becomes a tool, not a trap.",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M08-05.png"
+ },
+ {
   "id": "M10-01",
   "module": "History of Science",
   "name": "The Michelson–Morley Experiment",
