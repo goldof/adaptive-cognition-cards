@@ -269,6 +269,13 @@
 出处：Bernoulli 1713
 不适用：每次试验不独立（传染、跟风、反馈循环）时，大数定律的前提塌了——先问独立吗，再谈收敛。
 
+## M08-05 生动性效应
+![M08-05](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-05.png)
+模块：统计思维
+一句话：人脑对生动的个案敏感，对抽象的数字麻木
+出处：Nisbett & Ross 1980（《Human Inference》）
+不适用：个案与基率一致时，信个案没错——错的是只信个案；把它反过来用（把枯燥统计讲成生动故事），生动性就从陷阱变成工具。
+
 ## M10-01 迈克尔逊-莫雷实验
 ![M10-01](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M10-01.png)
 模块：科学史
