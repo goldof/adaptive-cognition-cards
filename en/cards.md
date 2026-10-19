@@ -269,6 +269,13 @@ In one line: 7 heads in 10 flips is normal; 10,000 flips lands near half
 Source: Bernoulli 1713
 Boundary: When trials aren't independent (contagion, herding, feedback loops), the premise collapses — ask "independent?" before talking convergence.
 
+## M08-05 Vividness Effect
+![M08-05](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M08-05.png)
+Module: Statistical Thinking
+In one line: The mind is moved by a vivid single case and numb to abstract numbers
+Source: Nisbett & Ross 1980 (Human Inference)
+Boundary: When the case agrees with the base rate, trusting it is fine — the error is trusting only it. Flip it around: turn dry statistics into a vivid story, and vividness becomes a tool, not a trap.
+
 ## M10-01 The Michelson–Morley Experiment
 ![M10-01](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M10-01.png)
 Module: History of Science
