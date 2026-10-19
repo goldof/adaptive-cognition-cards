@@ -342,6 +342,15 @@
   "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-04.png"
  },
  {
+  "id": "M08-05",
+  "module": "统计思维",
+  "name": "生动性效应",
+  "brief": "人脑对生动的个案敏感，对抽象的数字麻木",
+  "source": "Nisbett & Ross 1980（《Human Inference》）",
+  "fail": "个案与基率一致时，信个案没错——错的是只信个案；把它反过来用（把枯燥统计讲成生动故事），生动性就从陷阱变成工具。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M08-05.png"
+ },
+ {
   "id": "M10-01",
   "module": "科学史",
   "name": "迈克尔逊-莫雷实验",
