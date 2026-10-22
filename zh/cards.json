@@ -99,6 +99,15 @@
   "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-05.png"
  },
  {
+  "id": "M02-06",
+  "module": "说服框架转换",
+  "name": "正宗性溢价",
+  "brief": "东西没变，来源对了，价格翻倍——为\"可信的出身\"单独付一份钱",
+  "source": "Schooler 1965；Verlegh & Steenkamp 1999 元分析",
+  "fail": "出身被击穿（冒充现做/产地造假）溢价当天清零还倒扣信任；同类开满街，稀缺一断价格滑回平价；能当场比质比价且明显不行时，标签救不了。",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-06.png"
+ },
+ {
   "id": "M03-01",
   "module": "沉没成本与战略止损",
   "name": "零基提问",

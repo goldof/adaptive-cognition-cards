@@ -99,6 +99,15 @@
   "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M02-05.png"
  },
  {
+  "id": "M02-06",
+  "module": "Persuasion Framing",
+  "name": "The Authenticity Premium",
+  "brief": "Same product, right origin, double the price — people pay extra for a believable provenance",
+  "source": "Schooler 1965; Verlegh & Steenkamp 1999 meta-analysis",
+  "fail": "Provenance exposed as fake (frozen stock passed off as handmade) and the premium vanishes overnight, trust fined on top; once every street has one, scarcity dies and price slides back; if buyers can compare quality on the spot and it clearly loses, no label saves it.",
+  "image_url": "https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M02-06.png"
+ },
+ {
   "id": "M03-01",
   "module": "Sunk Costs & Strategic Quitting",
   "name": "The Zero-Base Question",

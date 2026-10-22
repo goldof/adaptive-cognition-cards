@@ -80,6 +80,13 @@ In one line: Write your goals as "what I'll lose by not acting"
 Source: Kahneman & Tversky 1979（应用）
 Boundary: When the goal is so big the "loss" is unimaginable (like health), loss-writing only manufactures anxiety — shrink the goal first.
 
+## M02-06 The Authenticity Premium
+![M02-06](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M02-06.png)
+Module: Persuasion Framing
+In one line: Same product, right origin, double the price — people pay extra for a believable provenance
+Source: Schooler 1965; Verlegh & Steenkamp 1999 meta-analysis
+Boundary: Provenance exposed as fake (frozen stock passed off as handmade) and the premium vanishes overnight, trust fined on top; once every street has one, scarcity dies and price slides back; if buyers can compare quality on the spot and it clearly loses, no label saves it.
+
 ## M03-01 The Zero-Base Question
 ![M03-01](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/en/png/xingnao-M03-01.png)
 Module: Sunk Costs & Strategic Quitting

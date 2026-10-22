@@ -80,6 +80,13 @@
 出处：Kahneman & Tversky 1979（应用）
 不适用：目标大到"失去"不可想象（比如健康）时，损失写法只会制造焦虑不产生行动，拆小才有用。
 
+## M02-06 正宗性溢价
+![M02-06](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M02-06.png)
+模块：说服框架转换
+一句话：东西没变，来源对了，价格翻倍——为"可信的出身"单独付一份钱
+出处：Schooler 1965；Verlegh & Steenkamp 1999 元分析
+不适用：出身被击穿（冒充现做/产地造假）溢价当天清零还倒扣信任；同类开满街，稀缺一断价格滑回平价；能当场比质比价且明显不行时，标签救不了。
+
 ## M03-01 零基提问
 ![M03-01](https://raw.githubusercontent.com/goldof/adaptive-cognition-cards/main/zh/png/xingnao-M03-01.png)
 模块：沉没成本与战略止损
